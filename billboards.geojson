@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-131 .2 mi N/O 44th St WS F/N",
+        "start": "2025-07-14",
+        "end": "2025-10-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5,
+          42.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-196 .3 mi E/O Chicago Drive SS F/W",
+        "start": "2025-07-14",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.49,
+          42.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-196 .5 mi W/O 44th Street SS F/W",
+        "start": "2025-07-14",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48,
+          42.879999999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-96 4.1 mi E/O M-6 NS F/E",
+        "start": "2025-07-07",
+        "end": "2025-11-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47,
+          42.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-94 2300 ft W/O Columbia Ave SS F/W",
+        "start": "2025-07-07",
+        "end": "2025-09-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46,
+          42.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-96 .5 mi W/O 16th Ave NS F/E",
+        "start": "2025-07-14",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45,
+          42.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-31 .9 mi S/O Pontaluna Rd ES F/S",
+        "start": "2025-07-21",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.44,
+          42.839999999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-131 1100 ft N/O W Main ES F/S",
+        "start": "2025-07-28",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.43,
+          42.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-96 1.6 mi E/O Nash Rd NS F/E",
+        "start": "2025-08-11",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.42,
+          42.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-96 1 mi W/O 68th Ave SS F/W",
+        "start": "2025-08-11",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.41,
+          42.809999999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "JS-131 .75 mi S/O West River Dr WS F/N",
+        "start": "2025-08-18",
+        "end": "2025-09-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4,
+          42.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-131 1 mi N/O 142nd Ave WS F/N",
+        "start": "2025-09-01",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.39,
+          42.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-131 1 mi S/O 142nd Ave SS F/S",
+        "start": "2025-09-01",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38,
+          42.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-131 .75 mi S/O 100th St ES F/S",
+        "start": "2025-09-08",
+        "end": "2025-11-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37,
+          42.769999999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-196 .1 mi W/O East Beltline SS F/W",
+        "start": "2025-09-15",
+        "end": "2025-10-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.36,
+          42.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-131 2000 ft N/O 28th St ES F/S",
+        "start": "2025-09-22",
+        "end": "2025-11-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35,
+          42.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-96 .5 mi E/O Portland Rd SS F/W",
+        "start": "2025-09-29",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.34,
+          42.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-131 .1 mi N/O Burton St WS F/N",
+        "start": "2025-10-06",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.33,
+          42.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-131 .4 mi S/O 36th St SS F/S",
+        "start": "2025-10-06",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.32,
+          42.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "US-131 .2 mi S/O 76th St WS F/N",
+        "start": "2025-10-06",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.31,
+          42.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-496 ft E/O Pennsylvania",
+        "start": "2025-08-11",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3,
+          42.699999999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-96 1500 ft E/O Cedar Ave NS F/E",
+        "start": "2025-08-11",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.29,
+          42.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "I-96 1364 ft S/O Mt. Hope ES F/S",
+        "start": "2025-08-11",
+        "end": "2025-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.28,
+          42.68
+        ]
+      }
+    }
+  ]
+}
